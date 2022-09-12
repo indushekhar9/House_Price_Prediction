@@ -1,1 +1,2 @@
 # House_Price_Prediction
+In this Project ,I have developed a Machine Learning Model which predict the Price of the House in the locality on providing the some of the detail (like no. of room,no. of bedroom, population of the area,avg. income of the locality,house's age) by the users.
